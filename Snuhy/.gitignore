@@ -1,0 +1,6 @@
+﻿vendor/
+node_modules/
+assets/admin-app/build/
+*.log
+.DS_Store
+.vscode/**/history/

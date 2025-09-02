@@ -1,0 +1,10 @@
+﻿{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open Snuhy in VSCode",
+      "type": "shell",
+      "command": "code "D:\seo-tools\Snuhy\Snuhy""
+    }
+  ]
+}
